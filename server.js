@@ -8,7 +8,7 @@ const { exec } = require('child_process');
 const hostspath = '/etc/hosts';
 const domain = 'lic.cryptolive.one';
 const domain2 = 'lic.bitmaster.cc';
-const ipAddress = '';
+const ipAddress = '5.189.175.17';
 const portHttp = 80;
 const portHttps = 443;
 
